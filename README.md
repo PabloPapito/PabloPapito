@@ -1,23 +1,32 @@
-👋 Hi, I’m @PabloPapito!
+🚀 Paweł Goleń – Data Engineer
+🔍 Data Engineer & Consultant @ Deloitte | AI & Automation Enthusiast
 
-👀 I am passionate about data analysis and strive to improve my skills every day.
+💡 Passionate about data engineering, ETL pipelines, cloud technologies, and AI-driven automation.
+🔧 Skilled in Python, SQL (Spark SQL, Presto), AWS (Glue, Athena, S3), Azure, Dataverse, SAP BO.
+⚙️ Experienced in ETL development, data migrations, workflow automation, and serverless data pipelines.
 
-🌱 Currently, I'm working as a Junior Intelligent Automation Developer at EY, where I specialize in ETL projects using Azure Data Factory. Previously, I worked on AI models to recognize PDF files and specific items creating.
+📌 Experience:
+Data Engineer / Consultant @ Deloitte (2025 - present)
+      Designing and optimizing ETL processes and data migrations for Volkswagen.
+      Working with AWS Glue, PySpark, SQL (Spark SQL) to process large-scale datasets.
+      Automating business processes with AI-based tools.
+      Ensuring efficient data transformation and integration in cloud environments.
 
-💼 During my time at Amazon, I automated various processes, significantly boosting productivity and efficiency.
+AI Enabled Automation Developer @ EY (2023 - 2024)
+      Built 20+ ETL processes, including 5 from scratch.
+      Spent 1500+ hours working with Azure Data Factory.
+      Developed 40 AI models for Intelligent Document Processing (IDP).
+      Worked in international, Agile teams, deploying solutions to production.
 
-🛠️ My tools include Microsoft Azure Data Factory, Azure DevOps, SharePoint, Microsoft Azure (portal), Microsoft Azure AI Form Recognizer Studio, Microsoft Azure Storage Explorer, Excel, Pandas, Plotly, Selenium, PostgreSQL, and MySQL.
+External Fulfillment Specialist @ Amazon (2022 - 2023)
+      Automated 6 report generation processes with Python, VBA, and Excel.
+      Processed and visualized millions of rows of data from 30+ warehouses.
 
-💻 I am proficient in Python, SQL, and VBA.
+🎓 Certifications & Skills:
+      Microsoft Azure Certified (DP-900, AZ-900)
+      Python, SQL (Spark SQL), AWS Glue, PySpark, ADF ETL
+      AI-driven automation & cloud data processing
+      Business process automation (6+ automated processes)
 
-📫 Feel free to reach out to me via email, WhatsApp, or LinkedIn.
-
-<!---
-PabloPapito/PabloPapito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-      
-    
-
-    
+📩 Let's connect!
+📧 p.golen89@gmail.com | 🔗 LinkedIn: https://www.linkedin.com/in/golen
