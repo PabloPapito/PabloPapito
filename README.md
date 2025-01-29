@@ -1,4 +1,5 @@
 🚀 Paweł Goleń – Data Engineer
+
 🔍 Data Engineer & Consultant @ Deloitte | AI & Automation Enthusiast
 
 💡 Passionate about data engineering, ETL pipelines, cloud technologies, and AI-driven automation.
